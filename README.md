@@ -265,7 +265,7 @@ We Have collected all yellow taxi trips data from jan-2015 to dec-2016(Will be u
 	</tr>
 	<tr>
 		<td>Store_and_fwd_flag</td>
-		<td>This flag indicates whether the trip record was held in vehicle memory before sending to the vendor,<br\> aka “store and forward,” because the vehicle did not have a connection to the server.
+		<td>This flag indicates whether the trip record was held in vehicle memory before sending to the vendor,<br\> aka “store and forward,” because the vehicle did not have a connection to the server.<br\>
 		<br\>Y= store and forward trip
 		<br\>N= not a store and forward trip
 		</td>
