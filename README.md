@@ -29,13 +29,16 @@ In the given notebook we are considering only the yellow taxis for the time peri
 
 # Data Collection
 We Have collected all yellow taxi trips data from jan-2015 to dec-2016(Will be using only 2015 data)
+
 <table>
+	
 <tr>
 <th> file name </th>
 <th> file name size</th>
 <th> number of records </th>
 <th> number of features </th>
 </tr>
+	
 <tr>
 <td> yellow_tripdata_2016-01 </td>
 <td> 1. 59G </td>
@@ -49,12 +52,14 @@ We Have collected all yellow taxi trips data from jan-2015 to dec-2016(Will be u
 <td> 11382049 </td>
 <td> 19 </td>
 </tr>
+
 <tr>
 <td> yellow_tripdata_2016-03 </td>
 <td> 1. 78G </td>
 <td> 12210952 </td>
 <td> 19 </td>
 </tr>
+
 <tr>
 <td> yellow_tripdata_2016-04 </td>
 <td> 1. 74G </td>
@@ -103,95 +108,110 @@ We Have collected all yellow taxi trips data from jan-2015 to dec-2016(Will be u
 <td> 10854626 </td>
 <td> 17 </td>
 </tr>
+
 <tr>
 <td> yellow_tripdata_2016-11 </td>
 <td> 868Mb </td>
 <td> 10102128 </td>
 <td> 17 </td>
 </tr>
+
 <tr>
 <td> yellow_tripdata_2016-12 </td>
 <td> 897Mb </td>
 <td> 10449408 </td>
 <td> 17 </td>
 </tr>
+
 <tr>
 <td> yellow_tripdata_2015-01 </td>
 <td> 1.84Gb </td>
 <td> 12748986 </td>
 <td> 19 </td>
 </tr>
+
 <tr>
 <td> yellow_tripdata_2015-02 </td>
 <td> 1.81Gb </td>
 <td> 12450521 </td>
 <td> 19 </td>
 </tr>
+
 <tr>
 <td> yellow_tripdata_2015-03 </td>
 <td> 1.94Gb </td>
 <td> 13351609 </td>
 <td> 19 </td>
 </tr>
+
 <tr>
 <td> yellow_tripdata_2015-04 </td>
 <td> 1.90Gb </td>
 <td> 13071789 </td>
 <td> 19 </td>
 </tr>
+
 <tr>
 <td> yellow_tripdata_2015-05 </td>
 <td> 1.91Gb </td>
 <td> 13158262 </td>
 <td> 19 </td>
 </tr>
+
 <tr>
 <td> yellow_tripdata_2015-06 </td>
 <td> 1.79Gb </td>
 <td> 12324935 </td>
 <td> 19 </td>
 </tr>
+
 <tr>
 <td> yellow_tripdata_2015-07 </td>
 <td> 1.68Gb </td>
 <td> 11562783 </td>
 <td> 19 </td>
 </tr>
+
 <tr>
 <td> yellow_tripdata_2015-08 </td>
 <td> 1.62Gb </td>
 <td> 11130304 </td>
 <td> 19 </td>
 </tr>
+
 <tr>
 <td> yellow_tripdata_2015-09 </td>
 <td> 1.63Gb </td>
 <td> 11225063 </td>
 <td> 19 </td>
 </tr>
+
 <tr>
 <td> yellow_tripdata_2015-10 </td>
 <td> 1.79Gb </td>
 <td> 12315488 </td>
 <td> 19 </td>
 </tr>
+
 <tr>
 <td> yellow_tripdata_2015-11 </td>
 <td> 1.65Gb </td>
 <td> 11312676 </td>
 <td> 19 </td>
 </tr>
+
 <tr>
 <td> yellow_tripdata_2015-12 </td>
 <td> 1.67Gb </td>
 <td> 11460573 </td>
 <td> 19 </td>
 </tr>
+
 </table>
 
 
 ## Features in the dataset:
-<table border="1">
+<table>
 	<tr>
 		<th>Field Name</th>
 		<th>Description</th>
