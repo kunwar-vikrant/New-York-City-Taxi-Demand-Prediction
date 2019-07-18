@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="https://luggagehero.com/wp-content/uploads/2019/03/shutterstock_758701297.jpg">
+  <img width="460" height="300" src="https://media2.giphy.com/media/xx2vYtB2d7LxK/source.gif">
 </p>
 
 # Data Information
