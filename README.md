@@ -270,7 +270,6 @@ We Have collected all yellow taxi trips data from jan-2015 to dec-2016(Will be u
 		<br\>N= not a store and forward trip
 		</td>
 	</tr>
-
 	<tr>
 		<td>Dropoff_longitude</td>
 		<td>Longitude where the meter was disengaged.</td>
@@ -320,6 +319,7 @@ We Have collected all yellow taxi trips data from jan-2015 to dec-2016(Will be u
 		<td>Total_amount</td>
 		<td>The total amount charged to passengers. Does not include cash tips.</td>
 	</tr>
+	
 </table>
 
 
